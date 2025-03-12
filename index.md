@@ -1,9 +1,9 @@
 ---
 ---
 
-# portmajm's Website
+# Julia Portmann's Website
 
-My research focuses broadly on freshwater ecology and the impacts of changing landscapes using field and remote sensing techniques. I am interested in both lentic and lotic systems, with a particular focus on aquatic invertebrates.
+My research focuses on freshwater ecology and the impacts of changing landscapes using field and remote sensing techniques. I am interested in both lentic and lotic systems, with a particular focus on aquatic invertebrates.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ My research focuses broadly on freshwater ecology and the impacts of changing la
 
 {% capture text %}
 
-Freshwater invertebrate. Restoration. Connectivity.
+Freshwater communities. Restoration. Connectivity. Remote Sensing.
 
 {%
   include button.html

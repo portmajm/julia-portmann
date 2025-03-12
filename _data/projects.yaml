@@ -1,18 +1,17 @@
-- title: Cool Dataset
+- title: Assessing restoration projects in a showcase watershed for the Chesapeake Bay
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: images/calf_frolicking.jpg
+  # link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+        
+- title: NASA DEVELOP
+  subtitle: Modeling sedimentation dynamics in the Chesapeake Bay and modelling land cover change in a California reserve
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://ntrs.nasa.gov/citations/20220019010
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:

@@ -1,11 +1,11 @@
 ---
-title: Team
+title: About me
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About me
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}About me
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -26,8 +26,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/ash_willow.jpg" %}
+{% include figure.html image="images/julia_woodcock.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
